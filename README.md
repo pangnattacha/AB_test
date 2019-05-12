@@ -17,3 +17,9 @@ This project aimed to analyze the results of A/B test run by an e-commerce websi
 
 ## Key finding
 The A/B test run by an e-commerce website shows that the new page is not better than the old page on the conversion of the overall customers. Therefore, the old page should be kept. However, by regression appraoch, A/B test is statistical significant to the conversion in UK.
+
+## References and further readings
+- https://www.optimizely.com/optimization-glossary/ab-testing/
+- https://adespresso.com/guides/facebook-ads-optimization/ab-testing/
+- https://www.designforfounders.com/ab-testing-examples/
+- https://www.abtasty.com/blog/learn-from-5-ab-test-case-studies/
